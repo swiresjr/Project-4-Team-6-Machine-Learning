@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.h5
+*.hdf5
+*.json
+
+# Logs
+*.log
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
